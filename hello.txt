@@ -1,2 +1,4 @@
 Hello This is Omer
 I am practicing devops
+
+we are improving hello.txt now
